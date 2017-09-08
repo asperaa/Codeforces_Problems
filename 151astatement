@@ -1,0 +1,15 @@
+
+
+
+
+
+function autoSubmit(){
+document.forms[0].submit();
+}
+
+
+
+
+
+
+
