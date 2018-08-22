@@ -1,0 +1,9 @@
+1.Always check whether size of vector is non-zero before using [] operator.
+2.Always check for duplicate cases/numbers when they are allowed.That is what changes are required in the regular solution because of them.
+3.If a lot of numbers are involved(remainder,divisiblility,pythagorean triples) apply number theory.For eg.(x-y)%m==(x%m)==(y%m)
+4.In graph questions,always draw a diagram to visualise effectively.To check for graph problem,look for the input where the "edges" are being given.
+5.Use of "find in string",and "string::npos----if not found".
+6.Can use "substr(pos,len)" if want to find a particular substring.
+7.In a question having finite(4-5 max) cases.Try to identify them exhuastively.
+8.Use the containers(vectors,sets,maps) to store the meta-data while (searching ,brute-forcing,etc).
+9.Always read the question carefully.Don't just ignore the statements just because you are unable to understand them.

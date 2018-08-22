@@ -1,0 +1,2 @@
+1.Check for BFS or DFS.To count level use bfs.
+2.Check for direted or undirected graph.
